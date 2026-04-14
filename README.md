@@ -1,5 +1,7 @@
 # 🚗 Smart Parking (PARKS)
 
+voir la maquette : https://parkscgp.github.io/PARKS/
+
 ### Plateforme intelligente de gestion et réservation de stationnement urbain
 
 ## 🧭 Overview
